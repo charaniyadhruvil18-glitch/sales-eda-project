@@ -19,3 +19,25 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Data Visualizations
+
+### 1. Missing Values Heatmap
+
+![Missing Values](images/missing_values.png)
+
+### 2. Product Distribution
+
+![Product Distribution](images/product_distribution.png)
+
+### 3. Revenue Distribution
+
+![Revenue Distribution](images/revenue_distribution.png)
+
+### 4. Correlation Heatmap
+
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+### 5. Monthly Sales Trend
+
+![Monthly Sales Trend](images/monthly_sales.png)
